@@ -1,20 +1,17 @@
 # Quiz_App
 Randomly 6 Question and their correct answers Questions are already selected but their order are randomized and after the last question the correct and the wrong questions attempted appears
 
-<h1>About Me</h1>
-👋 Hi, I’m @vinsmoke0003! I’m passionate about technology, coding, and building innovative solutions.
+<h1 align="center">Hi 👋, I'm Seenu</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-👀 Interests:
-I’m deeply interested in web development, particularly frontend frameworks like Svelte and Dart/Flutter for mobile app development. I also explore privacy tools like VPNs and stay updated on tech trends.
+<p align="left"> <a href="https://twitter.com/vinsmoke" target="blank"><img src="https://img.shields.io/twitter/follow/vinsmoke?logo=twitter&style=for-the-badge" alt="vinsmoke" /></a> </p>
 
-🌱 Currently Learning:
-Right now, I’m diving into Dart for Flutter development and exploring Svelte for building modern, efficient web applications. I’m also learning about phytoremediation and water filtration using plants in a project with my friends.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/vinsmoke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinsmoke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seenu s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seenu s" height="30" width="40" /></a>
+<a href="https://instagram.com/vin_seenu_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vin_seenu_03" height="30" width="40" /></a>
+</p>
 
-💞️ Looking to Collaborate On:
-I’d love to collaborate on Flutter apps, web applications using Svelte, and projects related to environmental tech (like water filtration systems). If you're working on something cool in these areas, let’s connect!
-
-📫 How to Reach Me:
-Feel free to reach out via GitHub, LinkedIn, or any other preferred platform.
-
-⚡ Fun Fact:
-I enjoy experimenting with new tech stacks, discussing privacy and security topics, and finding creative ways to make tech work for a sustainable future!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
